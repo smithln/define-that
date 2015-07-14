@@ -1,0 +1,29 @@
+{
+  "name": "define-that",
+  "version": "1.0.0",
+  "description": "Definitions for popular tech terminology and resources",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithln/define-that.git"
+  },
+  "keywords": [
+    "tech",
+    "resource",
+    "define",
+    "explain",
+    "help"
+  ],
+  "author": "Lauren Smith, Chloe Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smithln/define-that/issues"
+  },
+  "homepage": "https://github.com/smithln/define-that#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
