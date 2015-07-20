@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/smithln/define-that#readme",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "marked": "^0.3.3"
   }
 }
