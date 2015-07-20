@@ -6,7 +6,7 @@ A helpful, understandable, and easy to read resource for all things tech
 Requirements:
 You'll [Node.js](https://nodejs.org/) installed to work on this application.
 
-Initially, run an `npm-install`
+Initially, run an `npm install`
 
 **To Start the Server**
 
