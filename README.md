@@ -10,5 +10,5 @@ Initially, run an `npm-install`
 
 **To Start the Server**
 
-- Run `node app.js`
+- Run `npm start`
 - Visit `localhost:3000` in your browser
